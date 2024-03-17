@@ -31,6 +31,7 @@ minima:
   social_links:
     - { platform: devto,  user_url: "https://dev.to/garyjbelcher" }
     - { platform: github,  user_url: "https://github.com/garyjbelcher" }
+    - { platform: lastfm, user_url: "https://www.last.fm/user/garyjbelcher" }
     - { platform: twitter, user_url: "https://twitter.com/garyjbelcher" }
 feed:
   path: atom.xml
