@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Out With The Old"
+title:  "Out with the Old"
 date:   2024-02-06 23:00:00 +0000
 ---
 
