@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summer Move Roundup"
+title:  "Summer Movie Roundup"
 date:   2024-08-15 18:15:00 +0100
 ---
 
