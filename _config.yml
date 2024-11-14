@@ -24,12 +24,13 @@ author:
   email: "garyjbelcher+pt2w3pib@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Senior Software Engineer. Aston Villa supporter. Avid reader. Occasional writer.
-  Powered by Dr. Pepper, Cadbury's chocolate and Yorkshire Tea.
+  Powered by Cadbury's chocolate, Dr Pepper and Yorkshire Tea.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   social_links:
     - { platform: devto,  user_url: "https://dev.to/garyjbelcher" }
+    - { platform: bluesky, user_url: "https://bsky.app/profile/garyjbelcher.bsky.social" }
     - { platform: github,  user_url: "https://github.com/garyjbelcher" }
     - { platform: twitter, user_url: "https://twitter.com/garyjbelcher" }
 feed:
