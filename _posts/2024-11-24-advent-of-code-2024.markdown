@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Advent of Code 2024"
+date:   2024-11-24 01:35:00 Europe/London
+---
+
+[Advent of Code](https://adventofcode.com/) starts next Sunday, and I'll be participating again. For the 2024 edition, I've decided to solve the puzzles using Java after using JavaScript in 2022 and Python in 2023. It has been a long while since I've coded in Java, and I look forward to the challenge.
