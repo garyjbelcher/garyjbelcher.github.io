@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Christmas Eve 2024"
+date:   2024-12-24 12:15:00 Europe/London
+---
+
+Back when I had my old site, sharing a cheerful post on Christmas Eve about the [NORAD Santa Tracker](https://www.noradsanta.org/en/) was a beloved tradition. I'm delighted to continue this joyful tradition with my new site. Happy Holidays!
