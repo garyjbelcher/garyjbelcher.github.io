@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Advent of Code 2025"
+date:   2025-11-08 13:25:00 Europe/London
+---
+
+[Advent of Code](https://adventofcode.com/) is just under a month away now, and once again, I'll be taking part. I'm currently teaching myself [Rust](https://rust-lang.org/), so to continue my learning, I'll be using it to solve the puzzles. There will only be 12 puzzles for the 2025 edition, a significant change from past editions, but a good one in my opinion, as it's a busy time of year for many. Let the contest begin!
