@@ -50,6 +50,9 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
+paginate: 10
+paginate_path: "/page:num/"
+
 timezone: Europe/London
 
 # Exclude from processing.
